@@ -1,0 +1,93 @@
+# French translations for dynacase-tengine-configuration package
+# Traductions françaises du paquet dynacase-tengine-configuration.
+# Copyright (C) 2014 THE dynacase-tengine-configuration'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dynacase-tengine-configuration package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dynacase-tengine-configuration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-10 14:19+0200\n"
+"PO-Revision-Date: 2014-04-22 16:00+0100\n"
+"Last-Translator: Anakeen Labs <labs@anakeen.com>\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "TE:Client:UI:X0010 long name (convert)"
+msgstr "Lancement de la conversion unitaire d'un fichier"
+
+msgid "TE:Client:UI:X0010 short name (convert)"
+msgstr "Transformation unitaire"
+
+msgid "TE:Client:UI:X0020 long name (selftests)"
+msgstr "Lancement des autotests serveur"
+
+msgid "TE:Client:UI:X0020 short name (selftests)"
+msgstr "Autotest serveur"
+
+msgid "TE:Client:UI:X0030 long name (tasks)"
+msgstr "Surveillance du serveur et des travaux"
+
+msgid "TE:Client:UI:X0030 short name (tasks)"
+msgstr "Surveillance"
+
+msgid ""
+"TE:client:configuration:This UI is provided by Dynacase Tengine Monitor "
+"module."
+msgstr ""
+"Cette interface est activée par le modules Dynacase TEngine Monitor."
+
+msgid "TE:client:configuration:description"
+msgstr "Interface de gestion du serveur de transformation"
+
+msgid "TE:client:configuration:short_name"
+msgstr "Serveur de transformation"
+
+msgid "TE:client:configuration:tengine_client_unavailable_function"
+msgstr "Indisponible"
+
+msgid "tengine_client:action:admin_actions_list:short_name"
+msgstr "Action admin"
+
+#~ msgid ""
+#~ "TE:client:configuration:It's provided by Dynacase Tengine Monitor module."
+#~ msgstr "Elle est installée par le module Dynacase TEngine Monitor"
+
+#~ msgid "TE:client:configuration:This function is currently unavailable."
+#~ msgstr "Cette fonction n'est pas disponible."
+
+#~ msgid "tengine_client:action longname configuration:X003 supervisor"
+#~ msgstr "Surveillance"
+
+#~ msgid "tengine_client:action longname configuration:autotest"
+#~ msgstr "Lancement des autotests serveur"
+
+#~ msgid "tengine_client:action longname configuration:convert file"
+#~ msgstr "Lancement de la conversion unitaire d'un fichier"
+
+#~ msgid "tengine_client:action longname configuration:supervisor"
+#~ msgstr "Charge serveur et surveillance des travaux"
+
+#~ msgid "tengine_client:action shortname configuration:X001 convert file"
+#~ msgstr "Transformation unitaire"
+
+#~ msgid "tengine_client:action shortname configuration:X002 autotest"
+#~ msgstr "Autotest serveur"
+
+#~ msgid "tengine_client:action shortname configuration:X003 supervisor"
+#~ msgstr "Surveillance"
+
+#~ msgid "tengine_client:action shortname configuration:autotest"
+#~ msgstr "Autotests serveur"
+
+#~ msgid "tengine_client:action shortname configuration:convert file"
+#~ msgstr "Conversion unitaire"
+
+#~ msgid "tengine_client:action shortname configuration:supervisor"
+#~ msgstr "Surveillance des taĉhes et du serveur"

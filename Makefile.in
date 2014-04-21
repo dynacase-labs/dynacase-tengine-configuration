@@ -1,0 +1,21 @@
+PACKAGE = @PACKAGE@
+VERSION = @VERSION@
+utildir = @PUBRULE@
+pubdir = @prefix@
+srcdir = @srcdir@
+applib = FDL
+appname = @APPNAME@
+TAR = tar
+GZIP_ENV = --best
+
+export PACKAGE utildir pubdir applib appname
+
+SUBDIR = Actions locale/fr locale/en
+
+include $(utildir)/PubRule
+
+.PHONY: clean
+
+clean:
+	rm -f config.* Makefile configure @APPNAME@_init.php info.xml $(PACKAGE)-*webinst
+	rm -fr autom4te.cache
