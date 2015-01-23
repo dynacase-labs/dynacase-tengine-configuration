@@ -4,14 +4,8 @@
     <module name="dynacase-tengine-client" comp="ge" version="1.0.0"/>
   </requires>
   <post-install>
-    <process command="programs/tengine_client_migrate_parameters save">
-      <label lang="en">Saving previous parameters' values</label>
-    </process>
     <process command="programs/record_application @APPNAME@ I">
       <label lang="en">Record application @APPNAME@ in database</label>
-    </process>
-    <process command="programs/tengine_client_migrate_parameters restore">
-      <label lang="en">Restoring previous parameters' values</label>
     </process>
     <process command="programs/update_catalog"/>
   </post-install>
