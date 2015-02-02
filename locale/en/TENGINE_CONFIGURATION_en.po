@@ -1,0 +1,61 @@
+# French translations for dynacase-tengine-configuration package
+# Traductions françaises du paquet dynacase-tengine-configuration.
+# Copyright (C) 2014 THE dynacase-tengine-configuration'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dynacase-tengine-configuration package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dynacase-tengine-configuration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-10 14:19+0200\n"
+"PO-Revision-Date: 2015-01-26 15:21+0100\n"
+"Last-Translator: Anakeen Labs <labs@anakeen.com>\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "TE:Client:UI:X0010 long name (convert)"
+msgstr "Run a single conversion"
+
+msgid "TE:Client:UI:X0010 short name (convert)"
+msgstr "Single"
+
+msgid "TE:Client:UI:X0020 long name (selftests)"
+msgstr "Request the server to run its selftests"
+
+msgid "TE:Client:UI:X0020 short name (selftests)"
+msgstr "Selftests"
+
+msgid "TE:Client:UI:X0030 long name (tasks)"
+msgstr "Server and tasks monitoring"
+
+msgid "TE:Client:UI:X0030 short name (tasks)"
+msgstr "Monitoring"
+
+msgid ""
+"TE:client:configuration:This UI is provided by Dynacase Tengine Monitor "
+"module."
+msgstr "This UI is provided by Dynacase Tengine Monitor module."
+
+msgid "TE:client:configuration:description"
+msgstr "Transformation server management interface"
+
+msgid "TE:client:configuration:short_name"
+msgstr "Transformation server"
+
+msgid "TE:client:configuration:tengine_client_unavailable_function"
+msgstr "Unavailable"
+
+msgid "tengine_client:action:admin_actions_list:short_name"
+msgstr "Admin action"
+
+#~ msgid ""
+#~ "TE:client:configuration:It's provided by Dynacase Tengine Monitor module."
+#~ msgstr "It's provided by Dynacase Tengine Monitor module."
+
+#~ msgid "TE:client:configuration:This function is currently unavailable."
+#~ msgstr "This function is currently unavailable."
