@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf8"?>
 <module name="@PACKAGE@" version="@VERSION@" release="@RELEASE@" license="@LICENSE@">
+    <description lang="en">Transformation Engine Configuration</description>
   <requires>
     <module name="dynacase-tengine-client" comp="ge" version="1.0.0"/>
   </requires>
